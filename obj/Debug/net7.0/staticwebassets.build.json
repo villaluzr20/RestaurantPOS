@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lia5M7UPZeS8xhL7FRgCI6TFozMTttbMkdl6mWD9ckM=",
+  "Source": "RestaurantPOS",
+  "BasePath": "_content/RestaurantPOS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
